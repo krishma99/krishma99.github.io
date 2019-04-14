@@ -1,0 +1,152 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+header {
+  padding: 20px 0;
+}
+#myname {
+  font-size: 32px;
+  
+}
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.topthreeparagraphs{ 
+  color: #3F00FF;
+}
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+.jumbotron{
+  display: flex;
+  align-items: center;
+  background-image: url('https://d3e7bfg0h5jt4g.mrandmrssmith.com/images/615x410/3621883-amankila-bali-indonesia.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+.jumbotron h1{
+ font-size: 60px;
+  font-weight: 70;
+  margin: 0;
+  color: #fff;
+}
+  #Dance{
+  font-size: 50px;
+  font-weight: 70;
+  color: #fb607f;
+  text-align: center;
+}
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 70;
+  margin: 0;
+  color: #fff;
+}
+#Sing{
+  font-size: 55px;
+  font-weight: 60;
+  color: #DA70D6;
+  text-align: center;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
+#CookBake{
+  font-size: 45px;
+  font-weight: 50;
+  color: #008080;
+  text-align: center;
+}
+.jumbotron h4 {
+  margin: 0 0 20px;
+  color: #fff;
+}
+#Travel{
+  font-size: 40px;
+  font-weight: 40;
+  color: #CCCCFF;
+  text-align: center;
+}
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
+#quotes{
+  font-weight: bold;
+  text-align: center;
+}
+#firstquote{
+color: #fbaed2;
+font-size: 35;
+  font-family: sans-serif;
+}
+#secondquote{
+color: #7851A9;
+font-size: 40;
+  font-family: cursive;
+}
+#thirdquote{
+color: #0018A8;
+font-size: 45;
+  font-family: monospace;
+}
+.col-md-6 {
+  margin: 0 0 30px;
+}
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #fbd1d5;
+}
+
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
